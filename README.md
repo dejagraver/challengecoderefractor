@@ -14,8 +14,8 @@ CSS
 HTML
 
 Website 
-Git hub Repository URL: https://github.com/dejagraver/horiseonwebsite.html
-Application Git Hub URL: https://dejagraver.github.io/horiseonwebsite.html/
+GitHub Repository URL: https://github.com/dejagraver/horiseonwebsite.html
+Application GitHub URL: https://dejagraver.github.io/horiseonwebsite.html/
 Screenshot: https://user-images.githubusercontent.com/78667882/109426901-eaccc400-79bd-11eb-9a3f-57170b6e58ec.png
 
 
